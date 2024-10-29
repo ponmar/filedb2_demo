@@ -9,5 +9,5 @@ The demo includes a collection of files (some example images), persons, location
 ## Installation
 
 1. Install [FileDB](https://github.com/ponmar/filedb2)
-2. Clone this repository
+2. Clone this repository (or download as ZIP and extract)
 3. Double-click on **demo\Demo.FileDB** to open the demo in FileDB
